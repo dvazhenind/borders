@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2cfffbb978e133a49ae6ecc8ac9025f1
+timeCreated: 1514124161
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Koara wild free
+  fontNames:
+  - Koara wild free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
