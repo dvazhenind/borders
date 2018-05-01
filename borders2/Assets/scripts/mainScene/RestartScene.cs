@@ -11,8 +11,6 @@ public class RestartScene : MonoBehaviour {
 
     private void OnMouseDown()
     {
-        print("I work");
-
         Application.LoadLevel(Application.loadedLevel);
     }
 }
